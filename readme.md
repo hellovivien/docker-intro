@@ -26,9 +26,13 @@ Mais Docker peut être mis en place dès le début du projet pour permettre aux 
 ## Au moins 5 mots de vocabulaires propres à ce domaine qui permettent de mieux le comprendre?
 
 **Containers**: la base
-**Virtual Machines**: l'ancêtre
+
+**Virtual Machines**: c'était avant
+
 **Cloud**: Les services de cloud (AWS, Azure...)peuvent être facilement alimentés avec des images dockers
+
 **Docker Hub**: partages d'images prêtes à l'emploi
+
 **Docker Swarm**: Pour un projet on peut avoir différentes images, déployer sur différentes machines, Docker Swarm permet de les gérer.
 
 ## Comment le réaliser? quels sont les outils? quels sont les différents étapes?
